@@ -6,7 +6,7 @@ Hey, we're not ready yet. But we're excited to share some of our vision for this
 * In person events: craft days, game days (board, video, card), queer brunch, movie parties, bonfires, potlucks/house parties, sober holidays (St Patricks, New Years), adventures to museums and zoos, trans clothing swaps, and so much more!
 * This community is explicitly Queer, but not exclusively. We will never gate keep a Queer space because it only shuns away others from exploration.
 
-Our values: 
+## Our values: 
 * Queer identities and expression are a form of self expression and a form of resistance 
 * Queer sober third spaces are needed and lacking
 * All bodies are good bodies, and all deserve respect 
