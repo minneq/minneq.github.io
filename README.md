@@ -1,9 +1,9 @@
-Hey, we're not ready yet. But we're excited to share some of our vision for this community:
+## Hey, we're not ready yet. But we're excited to share some of our vision for this community:
 
-* MinneQ is a Queer social group for individuals in the Twin Cities area with in person events and an online social space.
+* MinneQ (pronounced Mini-Q) is a Queer social group for individuals in the Twin Cities of Minnesota with in person events and an online social space.
 * Our events and culture will broadly cater to ages 18-40, but there is no age limit to be in MinneQ. 
-* Individuals are not required to be sober to be involved in MinneQ; however, MinneQ will never provide alcohol at events. Alcohol is permitted when provided by a third party (i.e. an event at a restaurant). 
-* In person events: craft days, game days (board, video, card), queer brunch, movie parties, bonfires, potlucks/house parties, sober holidays (St Patricks, New Years), adventures to museums and zoos, trans clothing swaps, and so much more!
+* MinneQ is a sober group. Individuals are not required to be sober to be involved in MinneQ; however, MinneQ will never provide alcohol at events. Responsible consumption is permitted when provided by a third party (i.e. an event at a restaurant). 
+* In person events: craft days, game days (board, video, card), queer brunch, movie parties, bonfires, potlucks/house parties, holidays that a sober and with found-family, adventures to museums and zoos, trans clothing swaps, and so much more!
 * This community is explicitly Queer, but not exclusively. We will never gate keep a Queer space because it only shuns away others from exploration.
 
 ## Our values: 
@@ -27,7 +27,7 @@ Hey, we're not ready yet. But we're excited to share some of our vision for this
 * We believe survivors, every time
 * Community safety and harm reduction are guiding principles for our actions and decisions
 
-We are looking for help! Here's some stuff we are looking for:
+### We are looking for help! Here's some stuff we are looking for:
 * People who can build/run events
 * People who are good at networking/are well networked
 * People with web admin and/or discord admin experience
