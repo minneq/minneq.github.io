@@ -38,3 +38,5 @@ We are looking for help! Here's some stuff we are looking for:
 * People who want to host stuff (owner of property)
 
 Are you interested in helping out? Email minnequeer@gmail.com to get in contact! 
+
+![MinneQ Flag](./MinneQ-7.svg)
