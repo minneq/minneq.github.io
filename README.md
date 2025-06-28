@@ -5,7 +5,7 @@
 * MinneQ (pronounced Mini-Q) is a Queer social group for individuals in the Twin Cities of Minnesota with in person events and an online social space.
 * Our events and culture will broadly cater to ages 18-40, but there is no age limit to be in MinneQ. 
 * MinneQ is a sober group. Individuals are not required to be sober to be involved in MinneQ; however, MinneQ will never provide alcohol at events. Responsible consumption is permitted when provided by a third party (i.e. an event at a restaurant). 
-* In person events: craft days, game days (board, video, card), queer brunch, movie parties, bonfires, potlucks/house parties, holidays that a sober and with found-family, adventures to museums and zoos, trans clothing swaps, and so much more!
+* In person events: sober holidays with found-family, queer brunch, movie parties, craft days, game days (board, video, card), bonfires, potlucks/house parties, adventures to museums and zoos, trans clothing swaps, and so much more!
 * This community is explicitly Queer, but not exclusively. We will never gate keep a Queer space because it only shuns away others from exploration.
 
 ## Our values: 
@@ -38,6 +38,7 @@
 * People who can help with creating a Code of Conduct 
 * People who are good at art and would be willing to make a logo
 * People who want to host stuff (owner of property)
+* People who are compassionate and have a desire to give back to their community
 
 Are you interested in helping out? Email minnequeer@gmail.com to get in contact! 
 
