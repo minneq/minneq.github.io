@@ -1,3 +1,5 @@
+# MinneQ: Coming soon!
+
 ## Hey, we're not ready yet. But we're excited to share some of our vision for this community:
 
 * MinneQ (pronounced Mini-Q) is a Queer social group for individuals in the Twin Cities of Minnesota with in person events and an online social space.
