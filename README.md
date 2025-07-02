@@ -24,6 +24,7 @@
 * Sex work is real work
 * Kink and slut shaming hurt us all
 * No human is illegal
+* Accessibility benefits everyone
 * Science is real
 * Climate change is happening 
 * We believe survivors, every time
@@ -32,11 +33,9 @@
 ### We are looking for help! Here's some stuff we are looking for:
 * People who can build/run events
 * People who are good at networking/are well networked
-* People with web admin and/or discord admin experience
+* People who have web admin and/or discord admin experience
 * People who have legal experience with non-profits
 * People who have a basic level of legalese to help with Bylaws creation
-* People who can help with creating a Code of Conduct 
-* People who are good at art and would be willing to make a logo
 * People who want to host stuff (owner of property)
 * People who are compassionate and have a desire to give back to their community
 
