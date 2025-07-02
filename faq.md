@@ -107,7 +107,7 @@ Homemade ideas:
 * Homemade desserts
 * Pinwheel roll ups
 * Minnesota sushi
-* A Minnesota salad made from either mayonaisse or Cool Whip
+* A Minnesota salad made from either mayonnaise or Cool Whip
 * Hot cocoa/apple cider/specialty drinks
 
 #### Q: What happens if there’s a medical emergency?
