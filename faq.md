@@ -47,7 +47,7 @@ MinneQ Leadership will not intervene or mediate your breakup. However, you are s
 
 Logistically, it is your responsibility to arrange how the two of you will handle events going forward if you do not wish to cross paths, such as alternating even/odd months.
 
-## ID Check and related questions</h2></summary>
+## ID Check and related questions
 
 #### Q: I'm trans and my ID is old and doesn't match my appearance well.
 
