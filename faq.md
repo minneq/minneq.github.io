@@ -55,7 +55,9 @@ A: MinneQ by our very nature is a Queer group. We understand IDs can be out of d
 
 #### Q: Is this the same as becoming a MinneQ Member?
 
-A: We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
+A: No. Becomming a MinneQ Member means that you've attended a public in-person event and have met a moderator. We require this step to take place before allowing access to events that take place in private homes. 
+
+We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
 
 ## Event related questions
 
