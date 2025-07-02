@@ -1,3 +1,4 @@
+---
 # Code of Conduct and Membership Agreement
 All Members, Helpers, Moderators, and Board of MinneQ are expected and required to uphold the Code of Conduct. The MinneQ Code of Conduct is to be followed in all MinneQ spaces, which includes the Discord server and all in-person events. 
 
