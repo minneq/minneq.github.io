@@ -10,17 +10,15 @@ A: We welcome anyone who believes in the Mission and Value Statements of MinneQ,
 
 #### Q: There’s a lot of different roles I see. What do they all mean? 
 
-A: MinneQ Board: The Board is responsible for the long-term management of the group. 
-
-MinneQ Moderators: These people run the group, organize events, handle member conflicts, and more.
+A: 
+* MinneQ Board: The Board is responsible for the long-term management of the group.
+* MinneQ Moderators: These people run the group, organize events, handle member conflicts, and more.
 
 Collectively, Board Members and Moderators are referred to as “MinneQ Leadership”. There are some people who are both Board and Moderators, but they can be independent roles as well. 
 
-MinneQ Helpers: these are people who are invested in our group and choose to help us out. There are no special privileges to becoming a Helper, but we greatly appreciate the help of those who choose to give back. 
-
-MinneQ Members: Members have attended an in person event and met with Leadership, and are now welcome to attend private events. 
-
-Newcomer: This is someone who has recently joined our server and has yet to meet Leadership at an event. 
+* MinneQ Helpers: these are people who are invested in our group and choose to help us out. There are no special privileges to becoming a Helper, but we greatly appreciate the help of those who choose to give back.
+* MinneQ Members: Members have attended a public, in-person event and met with Leadership, and are now welcome to attend private events.
+* Newcomer: This is someone who has recently joined our server and has yet to meet Leadership at an event. 
 
 #### Q: How can I get involved to do more? 
 
