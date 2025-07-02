@@ -2,7 +2,7 @@
 
 # Frequently Asked Questions
 
-<details><summary><h2>MinneQ General Questions</h2></summary>
+## MinneQ General Questions
   
 #### Q: I’m cisgender and straight. Is it okay if I join MinneQ?
   
@@ -26,10 +26,7 @@ Newcomer: This is someone who has recently joined our server and has yet to meet
 
 A: We are still building MinneQ. Stay tuned for more information! 
 
-</details>
-
-<details>
-<summary> <h2>Conflict/Member Issue Tickets</h2></summary>
+## Conflict/Member Issue Tickets
 
 #### Q: Someone in MinneQ is making me uncomfortable.
 A: MinneQ takes these matters very seriously. Please open a Member issue/conflict ticket. These are the most difficult tickets we handle, and it may take some time before we have a resolution. 
@@ -49,10 +46,8 @@ A: First off, we're sorry to hear that. This will be a challenging adjustment pe
 MinneQ Leadership will not intervene or mediate your breakup. However, you are still welcome to contact us for some Big Sibling Advice and we'll do our best to help you out.
 
 Logistically, it is your responsibility to arrange how the two of you will handle events going forward if you do not wish to cross paths, such as alternating even/odd months.
-</details>
 
-<details> 
-<summary><h2>ID Check and related questions</h2></summary>
+## ID Check and related questions</h2></summary>
 
 #### Q: I'm trans and my ID is old and doesn't match my appearance well.
 
@@ -62,9 +57,7 @@ A: MinneQ by our very nature is a Queer group. We understand IDs can be out of d
 
 A: We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
 
-</details>
-
-<details><summary><h2>Event related questions</h2></summary>
+## Event related questions
 
 #### Q: What is your vaccination and/or masking policy?
 
@@ -122,6 +115,3 @@ A: If you believe someone at the party is experiencing a medical emergency, plea
 #### Q: I RSVP’d but now I can’t go!
 
 A: Please open an event ticket to let us know! We understand that life happens and it’s not always predictable. As long as you inform us, we do not hold the cancel against you. Ghosting an invite will place you on the bottom of the priority list for future events. 
-
-
-</details>
