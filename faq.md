@@ -54,13 +54,13 @@ A: No. Becomming a MinneQ Member means that you've attended a public in-person e
 
 We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
 
-**Q: I don't have a piece of paper handy. I'll just type up that info on my computer and have that in the shot.**
+#### Q: I don't have a piece of paper handy. I'll just type up that info on my computer and have that in the shot.
 A: No. A piece of paper. It can be a post-it note or a gum wrapper, but it needs to be physical paper. 
 
-**Q: My license just expired. Is that okay?**
+#### Q: My license just expired. Is that okay?
 A: We are not TSA, and you are not trying to board the MinneQ plane. We are only concerned with verifying that you are 18 or older, and an expired ID shows that just fine. 
 
-**Q: Is my passport okay?**
+#### Q: Is my passport okay?
 A: Any government issued ID that lists a birthday and has a photo. 
 Yes: Drivers license, state ID, passport card/book, military ID, green card, enhanced tribal cards
 No: School ID, birth certificates, social security cards.
@@ -74,13 +74,17 @@ If you are experiencing infectious illness symptoms of any kind, even (and espec
 
 You are welcome to wear a mask if you choose and MinneQ has basic surgical masks available. 
 
-#### Q: I can come early to help set up!
-A: That's really nice of you, but please ask a moderator first. We appreciate the help, but sometimes end up with a "too many cooks" situation. If you are interested in helping out on a formal basis, you should look into becoming a MinneQ Helper!
-
 #### Q: I use [insert drug here] to manage my chronic pain and/or mental health. Can I take it at MinneQ events?
 A: MinneQ is a sober group. This means that we do not allow alcohol or other recreational drugs at private events. 
 
 Medicinal usage is a complex topic that is going to vary from one individual to the next, so we aren’t eager to create a blanket policy on the issue. Generally, if you have a prescription and your usage does not impact others, you are welcome to take whatever you need. If you have questions beyond this, please open a ticket to discuss your situation with Leadership.
+
+#### Q: What is the cost for your events?
+A: Generally, our goal is to make our events very accessible cost-wise. All events will list the cost as part of the event announcement. 
+
+Many of our public events will cost nothing/cost is the price of your own food purchases. 
+
+Private events are generally $10-20/person, sliding scale. This covers the cost of food, drinks, supplies, hosting fees, and more.
 
 #### Q: What should I bring to the potluck?
 A: The key to a good potluck is to have a nice cross-section of meals, snacks/appetizers, desserts and an assortment of flavors for each of those. People sometimes feel guilty for “only grabbing a bag of chips”, but that is equally important to a good potluck as pizza, fried chicken, or a salad. Please bring whatever you feel comfortable providing, and do not spend more than you are able.
@@ -126,22 +130,18 @@ A: We got you. MinneQ maintains a first aid kit that is available at all private
 * Pads
 * Basic first aid (bandages, gauze, antibiotic ointment, and more)
 
-#### Q: I RSVP’d but now I can’t go!
-A: Please open an event ticket to let us know! We understand that life happens and it’s not always predictable. As long as you inform us, we do not hold the cancel against you. Ghosting an invite will place you on the bottom of the priority list for future events. 
+#### Q: I can come early to help set up!
+A: That's really nice of you, but please ask a moderator first. We appreciate the help, but sometimes end up with a "too many cooks" situation. If you are interested in helping out on a formal basis, you should look into becoming a MinneQ Helper!
 
-**Q: What is the cost for your events?**
-A: Generally, our goal is to make our events very accessible cost-wise. All events will list the cost as part of the event announcement. 
-
-Many of our public events will cost nothing/cost is the price of your own food purchases. 
-
-Private events are generally $10-20/person, sliding scale. This covers the cost of food, drinks, supplies, hosting fees, and more.
-
-**Q: How do I knock? Is there a secret handshake?**
+#### Q: How do I knock? Is there a secret handshake?
 A: Our standard procedure is that the front door will be shut for privacy, but unlocked during the event. Please do not knock or ring the doorbell! This is host dependent, and will be specified in invites if it differs from this.
 
-**Q: What should I wear?**
+#### Q: What should I wear?
 A: We enjoy a very low-pressure vibe at MinneQ, so generally whatever you’d like! We encourage everyone to come as they are. 
 
 If our events are in public, please be cognizant of outing. When out as a group, we will be associated together, and we do not wish to draw extra attention or hatred towards our group. While one person might regularly wear fishnets to the grocery store and consider it normal, not everyone has that level of comfortability in their identity. General rule of thumb: leave the nightclub wear for a different time. 
 
 Private events will have the “vibe” specified for each event. Please remember to dress casually for arrival/departure to not draw extra attention to our host's. It's also a good idea to bring a comfortable change of clothes in case you need them. You might get tired of the ensemble you put together, or might just be over stimmed. Having comfortable clothes can be a game changer.
+
+#### Q: I RSVP’d but now I can’t go!
+A: Please open an event ticket to let us know! We understand that life happens and it’s not always predictable. As long as you inform us, we do not hold the cancel against you. Ghosting an invite will place you on the bottom of the priority list for future events. 
