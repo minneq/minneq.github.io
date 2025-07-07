@@ -27,7 +27,7 @@ MinneQ shall make its membership, leadership, and policy decisions, host communi
 * Sex work is real work
 * Kink and slut shaming hurt us all
 * No human is illegal
-* Accessibility benefit everyone
+* Accessibility benefits everyone
 * Science is real
 * Climate change is happening 
 * We believe survivors, every time
