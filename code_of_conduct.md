@@ -58,11 +58,13 @@ Additionally, outing includes:
 * Tagging someone in pictures without permission, or posting pictures without express consent.
 * Sharing the locations of party host homes or the names of our hosts; sharing host information.
 * Outing someone for having once presented as a different gender identity without permission.
-* Outing deadnames, or outing someone’s chosen name/pronouns in situations they are not out. 
+* Outing deadnames, or outing someone’s chosen name/pronouns in situations they are not out.
 
-**No cruising or personals.** MinneQ is not a place for hookups; do not join MinneQ or attend our events with the sole intention to date. This is a social group that is focused on community and friendship. That said, you are not barred from dating within the MinneQ community–just don’t be a creep. 
+We also ask that individuals are cognizant of dress at public events. We do not wish to draw extra attention or hatred towards our group.  General rule of thumb: leave the nightclub wear for a different time.
 
-**No unsolicited advertising or self-promotion.** This is not a place to advertise your Etsy shop, OnlyFans, or social media links with the intent to gain followers. 
+**No cruising or personals.** MinneQ is not a place for hookups; do not join MinneQ or attend our events with the sole intention to date. This is a social group that is focused on community and friendship. You are not barred from dating within the MinneQ community–just don’t be a creep. 
+
+**No unsolicited advertising or self-promotion.** This is not a place to advertise your Etsy shop, OnlyFans, GoFundMe, or social media links with the intent to gain followers. 
 You are allowed, as an engaged member of the community, to share stuff you do when it is relevant. Table at a market? Awesome! Sharing your Instagram handle to show off more of your cosplay? Go for it! 
 
 **Consent is mandatory.** At MinneQ, we practice affirmative consent for everything. Be cognizant of personal space and do not touch anyone or their property without permission.
