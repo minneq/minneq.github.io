@@ -42,7 +42,7 @@ There are a lot of pieces that go into running MinneQ. Depending on the size of 
 
 ## Knowledge, Skills, Personality
 
-MinneQ Leadership seeks individuals who, above all else, can respond with compassion and curiosity during difficult times. We are responsible for setting the culture, handling member conflicts, and modeling accountability to our community. We look for people who show up with enthusiasm, but this need not mean extroverts. 
+MinneQ Leadership seeks individuals who, above all else, can respond with compassion, empathy, and curiosity during difficult times. We are responsible for setting the culture, handling member conflicts, and modeling accountability to our community. We look for people who show up with enthusiasm, but this need not mean extroverts. 
 
 There are many skills that are utilized by Moderators, but it is not expected nor required that an applicant will have any/all of those skills upon applying. One of the best ways to become a leader is by simply doing. A major piece of being a Moderator is being able to mentor those with less seniority, and train them in on the hard and soft skills required. The goal with the Moderator Team is to never be fully reliant on one person to complete a task--redundancy is key, for both the current Moderators' time/mental capacity, and the longevity of the group. 
 
