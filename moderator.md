@@ -70,4 +70,4 @@ Depending on the week, Moderators may spend 5-15 hours towards MinneQ (remember 
 
 ## Moderator Application
 
-You can find the application here: https://forms.gle/6uJZVgjrZH1iEbXq6
+You can find the application here: <https://forms.gle/6uJZVgjrZH1iEbXq6>
