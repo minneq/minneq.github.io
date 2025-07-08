@@ -50,6 +50,6 @@ The sky is the limit when it comes to private events! Here's some ideas that can
 
 ## Becoming a Host
 
-If you are interested in becoming a Host for MinneQ, please fill out the Host application form: https://forms.gle/d3GhJXZAbfXrfnad7  
+If you are interested in becoming a Host for MinneQ, please fill out the Host application form: <https://forms.gle/d3GhJXZAbfXrfnad7>
 
 Whether you have specific ideas you'd like to host, or if you just want to open your home to MinneQ and have us do the work--we'd love to hear from you! We will set up a time to tour your property and get a feel for capacity and capabilities of the space. After that, we will work with you to create a Hosting Agreement tailored to meet your needs and desires. 
