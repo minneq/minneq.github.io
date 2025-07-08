@@ -40,6 +40,6 @@
 * People who want to host stuff (owner of property)
 * People who are compassionate and have a desire to give back to their community
 
-Are you interested in helping out? Email minnequeer@gmail.com to get in contact! 
+Are you interested in helping out? Email <minnequeer@gmail.com> to get in contact! 
 
 ![MinneQ Flag](./MinneQ-7.svg)
