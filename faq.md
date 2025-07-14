@@ -11,7 +11,7 @@ A: We welcome anyone who believes in the Mission and Value Statements of MinneQ,
 A: Your friend is welcome to attend any <ins>public</ins> events with you. We do recommend anyone who is interested in joining MinneQ has joined the Discord before the event. This makes the process easier for Moderators to complete the vibe check process on the spot, as well as prevent/resolve any issues related to joining the server. 
 
 #### Q: Do I have to use Discord? 
-A: All membership information and private event registration is <ins>only</ins> available through Discord. If you want to be a MinneQ Member and attend private events, you must have an active Discord account and be in the MinneQ server. However, there is no requirement that Members participate in the Discord social space. 
+A: Registration to private events is <ins>only</ins> available through Discord after becoming a Member. From a moderation perspective, all MinneQ membership is managed through our Discord server--if you are not in there, we don't know who you are! If you want to be a MinneQ Member and attend private events, you must have an active Discord account and be in the MinneQ server. However, there is no requirement that Members participate in the Discord social space. 
 
 #### Q: There’s a lot of different roles I see. What do they all mean? 
 A: 
@@ -56,7 +56,7 @@ A: We operate with this as our default. We will never tell anyone who reported t
 A: MinneQ by our very nature is a Queer group. We understand IDs can be out of date, and that sharing an old ID pic feels vulnerable. You may wait to show your ID at an in person event if you choose, but recognize that this will limit your server access until that is completed. 
 
 #### Q: Is this the same as becoming a MinneQ Member?
-A: No. Becomming a MinneQ Member means that you've attended a public in-person event and have met a moderator. We require this step to take place before allowing access to events that take place in private homes. 
+A: No. Becomming a MinneQ Member means that you've attended a public in-person event and have met a moderator. [Learn more about becoming a MinneQ Member](/members_and_events).
 
 We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
 
