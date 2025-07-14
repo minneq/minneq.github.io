@@ -48,20 +48,3 @@ You are allowed, as an engaged member of the community, to share stuff you do wh
 
 ## MinneQ Membership Bans, Suspensions, and Disciplinary Measures
 MinneQ Membership can be removed at any time by MinneQ Leadership, with or without explanation. MinneQ Members are bound by our Code of Conduct, Value Statement, cultural standards, and any specific directions given by Leadership. Violation of any of the aforementioned, or actions representing a danger or damage to our group members or group culture, may result in removal of MinneQ Member status, suspension from group activities, and other disciplinary measures. MinneQ is a private group, and membership status is entirely at the discretion of Leadership. MinneQ lacks the resources or capacity to perform investigations of wrongdoing, and instead make decisions rooted in a policy of harm reduction. 
-
-## Communication
-
-### Contacting Moderators
-The best way to contact Leadership is to open a ticket in #contact-us. Opening a ticket will create a private channel between you and Leadership. 
-
-If your ticket is related to an issue with someone on MinneQ Leadership, you may DM the moderator you are most comfortable with. After the moderator receives your report, they will create a private channel with the remaining members of Leadership to discuss your concerns. 
-
-Please review the FAQs on Discord for the related ticket options before opening a ticket. 
-
-### Public-Facing Communication
-When addressing group business, MinneQ Leadership speaks as a group. We coordinate our public-facing communication accordingly.
-
-We monitor our online community for adherence to our community standards and Code of Conduct. Harmful posts or language will be deleted and addressed. Membership and participation is a privilege and violations of our policies in person and online will be evaluated accordingly.
-
-## Non-profit
-MinneQ is a non-profit group that is run by volunteers. We operate on member donations to fund our events. Any surplus is reinvested into MinneQ for future events. In the event MinneQ shuts down, all money will be donated to a local Queer charity. 
