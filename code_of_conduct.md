@@ -27,7 +27,7 @@ Topics to give this consideration include, but are not limited to, discussions o
 Additionally, outing includes: 
 * Exposing someone’s medical or STI statuses.
 * Tagging someone in pictures without permission, or posting pictures without express consent.
-* Sharing the locations of party host homes or the names of our hosts; sharing host information.
+* Sharing the locations of Host homes or the names of our Hosts; sharing Host information.
 * Outing someone for having once presented as a different gender identity without permission.
 * Outing deadnames, or outing someone’s chosen name/pronouns in situations they are not out.
 
@@ -44,7 +44,7 @@ You are allowed, as an engaged member of the community, to share stuff you do wh
 
 **MinneQ is a sober space.** This means that we do not allow alcohol or other recreational drugs at private events. Discussion of responsible legal recreational use is permitted. 
 
-**Harassment or bullying of any kind is not permitted.** If you harass a member or moderator in person, on our online community, in personal communication, or on Fetlife, you are in violation of our community standards and consent policy, and the situation will be evaluated on a case-by-case basis.
+**Harassment or bullying of any kind is not permitted.** If you harass a Member or Moderator in person, in our online community, in personal communication, or on any social media, you are in violation of our community standards and consent policy. The situation will be evaluated on a case-by-case basis, up to and including removal of Member status and expulsion from the group. 
 
 ## MinneQ Membership Bans, Suspensions, and Disciplinary Measures
 MinneQ Membership can be removed at any time by MinneQ Leadership, with or without explanation. MinneQ Members are bound by our Code of Conduct, Value Statement, cultural standards, and any specific directions given by Leadership. Violation of any of the aforementioned, or actions representing a danger or damage to our group members or group culture, may result in removal of MinneQ Member status, suspension from group activities, and other disciplinary measures. MinneQ is a private group, and membership status is entirely at the discretion of Leadership. MinneQ lacks the resources or capacity to perform investigations of wrongdoing, and instead make decisions rooted in a policy of harm reduction. 
