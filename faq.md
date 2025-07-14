@@ -5,7 +5,7 @@
 ## MinneQ General Questions
   
 #### Q: I’m cisgender and straight. Is it okay if I join MinneQ?
-A: We welcome anyone who believes in the Mission and Value Statements of MinneQ, regardless of orientation. MinneQ is explicitly a Queer group, but we do not gate-keep the space behind a required identity. 
+A: We welcome anyone who believes in the [Mission and Value Statements of MinneQ](/mission_and_values), regardless of orientation. MinneQ is explicitly a Queer group, but we do not gate-keep the space behind a required identity. 
 
 #### Q: Can I bring my friend to events? They haven't joined the Discord yet. 
 A: Your friend is welcome to attend any <ins>public</ins> events with you. We do recommend anyone who is interested in joining MinneQ has joined the Discord before the event. This makes the process easier for Moderators to complete the vibe check process on the spot, as well as prevent/resolve any issues related to joining the server. 
