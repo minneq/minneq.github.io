@@ -33,6 +33,6 @@
 
 ## Are you interested in getting involved? Email <minnequeer@gmail.com> to get in contact! 
 
-MinneQ is a non-profit group that is run by volunteers. We operate on member donations to fund our events. Any surplus is reinvested into MinneQ for future events. In the event MinneQ shuts down, all money will be donated to local Queer non-profits. 
-
 ![MinneQ Flag](./MinneQ-7.svg)
+
+MinneQ is a non-profit group that is run by volunteers. We operate on member donations to fund our events. Any surplus is reinvested into MinneQ for future events. In the event MinneQ shuts down, all money will be donated to local Queer non-profits. 
