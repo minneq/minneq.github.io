@@ -9,7 +9,7 @@ If your ticket is related to an issue with someone on MinneQ Leadership, you may
 
 Please review the FAQs on Discord for the related ticket options before opening a ticket. 
 
-If not on Discord, you may contact MinneQ via our email, minnequeer@gmail.com. 
+If not on Discord, you may contact MinneQ via our email, <minnequeer@gmail.com>. 
 
 ### Public-Facing Communication
 When addressing group business, MinneQ Leadership speaks as a group. We coordinate our public-facing communication accordingly.
