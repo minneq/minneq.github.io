@@ -7,10 +7,16 @@
 #### Q: I’m cisgender and straight. Is it okay if I join MinneQ?
 A: We welcome anyone who believes in the Mission and Value Statements of MinneQ, regardless of orientation. MinneQ is explicitly a Queer group, but we do not gate-keep the space behind a required identity. 
 
+#### Q: Can I bring my friend to events? They haven't joined the Discord yet. 
+A: Your friend is welcome to attend any <ins>public</ins> events with you. We do recommend anyone who is interested in joining MinneQ has joined the Discord before the event. This makes the process easier for Moderators to complete the vibe check process on the spot, as well as prevent/resolve any issues related to joining the server. 
+
+#### Q: Do I have to use Discord? 
+A: All membership information and private event registration is <ins>only</ins> available through Discord. If you want to be a MinneQ Member and attend private events, you must have an active Discord account and be in the MinneQ server. However, there is no requirement that Members participate in the Discord social space. 
+
 #### Q: There’s a lot of different roles I see. What do they all mean? 
 A: 
-* MinneQ Board: The Board is responsible for the long-term management of the group.
-* MinneQ Moderators: These people run the group, organize events, handle member conflicts, and more.
+* MinneQ Board: The Board is responsible for the long-term management of the group. 
+* MinneQ Moderators: These people run the day-to-day operations of the group, organize events, handle member conflicts, and more.
 
 Collectively, Board Members and Moderators are referred to as “MinneQ Leadership”. There are some people who are both Board and Moderators, but they can be independent roles as well. 
 
@@ -20,7 +26,7 @@ Collectively, Board Members and Moderators are referred to as “MinneQ Leadersh
 * NotID'd: This is someone who is brand new to the server and has not completed the ID Check. Do not accept DMs or friend requests from anyone with this role. MinneQ policy requires everyone to ID before initiating DMs.
 
 #### Q: How can I get involved to do more? 
-A: We are still building MinneQ. Stay tuned for more information! 
+A: We are actively looking for Moderators, Helpers, and individuals who are interested in Hosting MinneQ. Our [Get Involved](/get_involved) page has more information. 
 
 ## Conflict/Member Issue Tickets
 
@@ -131,7 +137,7 @@ A: We got you. MinneQ maintains a first aid kit that is available at all private
 * Basic first aid (bandages, gauze, antibiotic ointment, and more)
 
 #### Q: I can come early to help set up!
-A: That's really nice of you, but please ask a moderator first. We appreciate the help, but sometimes end up with a "too many cooks" situation. If you are interested in helping out on a formal basis, you should look into becoming a MinneQ Helper!
+A: That's really nice of you, but please ask a Moderator first. We appreciate the help, but sometimes end up with a "too many cooks" situation. If you are interested in helping out on a formal basis, check out [Get Involved](/get_involved)!
 
 #### Q: How do I knock? Is there a secret handshake?
 A: Our standard procedure is that the front door will be shut for privacy, but unlocked during the event. Please do not knock or ring the doorbell! This is host dependent, and will be specified in invites if it differs from this.
