@@ -36,7 +36,7 @@ There are a lot of pieces that go into running MinneQ. Depending on the size of 
 * Engaging with new members and completing "vibe checks"
 
 ### Private Events
-* Ensuring that the party set up and tear down is completed and is low stress for the party hosts.
+* Ensuring that the event set up and tear down is completed and is low stress for Hosts.
 * Arriving early for set up/staying late to tear down.
 * Creating the safest possible environment. This includes watching the space/members, verifying identity of everyone who attends, providing tours of the space, and making the house rules known to everyone in advance of the event. 
 
