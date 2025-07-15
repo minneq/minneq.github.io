@@ -8,7 +8,9 @@
 A: We welcome anyone who believes in the [Mission and Value Statements of MinneQ](/mission_and_values), regardless of orientation. MinneQ is explicitly a Queer group, but we do not gate-keep the space behind a required identity. 
 
 #### Q: Can I bring my friend to events? They haven't joined the Discord yet. 
-A: Your friend is welcome to attend any <ins>public</ins> events with you. We do recommend anyone who is interested in joining MinneQ has joined the Discord before the event. This makes the process easier for Moderators to complete the vibe check process on the spot, as well as prevent/resolve any issues related to joining the server. 
+A: Your friend is welcome to attend any <ins>public</ins> events with you. We do recommend anyone who is interested in joining MinneQ has joined the Discord before the event. This makes the process easier for Moderators to complete the vibe check process on the spot, as well as complete the Discord server application. 
+
+Private events are only available to MinneQ Members. Everyone must register to attend a private event, but registration does not guarantee an invite to attend. 
 
 #### Q: Do I have to use Discord? 
 A: Registration to private events is <ins>only</ins> available through Discord after becoming a Member. From a moderation perspective, all MinneQ membership is managed through our Discord server--if you are not in there, we don't know who you are! If you want to be a MinneQ Member and attend private events, you must have an active Discord account and be in the MinneQ server. However, there is no requirement that Members participate in the Discord social space. 
@@ -21,7 +23,7 @@ A:
 Collectively, Board Members and Moderators are referred to as “MinneQ Leadership”. There are some people who are both Board and Moderators, but they can be independent roles as well. 
 
 * MinneQ Helpers: these are people who are invested in our group and choose to help us out. There are no special privileges to becoming a Helper, but we greatly appreciate the help of those who choose to give back.
-* MinneQ Members: Members have attended a public, in-person event and met with Leadership, and are now welcome to attend private events.
+* MinneQ Members: Members have attended a public, in-person event and met with Leadership, and are now welcome to register for private events.
 * ID'd: This is someone who has completed the ID check after joining the server. If they do not also have "MinneQ Member", they have attended an event to meet Leadership. 
 * NotID'd: This is someone who is brand new to the server and has not completed the ID Check. Do not accept DMs or friend requests from anyone with this role. MinneQ policy requires everyone to ID before initiating DMs.
 
