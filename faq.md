@@ -58,7 +58,7 @@ A: We operate with this as our default. We will never tell anyone who reported t
 A: MinneQ by our very nature is a Queer group. We understand IDs can be out of date, and that sharing an old ID pic feels vulnerable. You may wait to show your ID at an in person event if you choose, but recognize that this will limit your server access until that is completed. 
 
 #### Q: Is this the same as becoming a MinneQ Member?
-A: No. Becomming a MinneQ Member means that you've attended a public in-person event and have met a moderator. [Learn more about becoming a MinneQ Member](/members_and_events).
+A: No. Becomming a MinneQ Member means that you've attended a public in-person event and have met a moderator. [Learn more about becoming a MinneQ Member](/become_a_member).
 
 We require an ID check as this is an 18+ space and community. If you wait to complete the ID check until an in person event, these two steps will be done at the same time, but they are different processes.
 
