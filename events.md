@@ -10,6 +10,8 @@ Many members in the LGBTQ+ space have difficult relationships with their family 
 
 Our Members are welcome to suggest event ideas and/or help facillitate them. If you are interested in helping on a regular basis, check out our [Get Involved](/get_involved) page. 
 
+### [Event FAQs](/faq#event-related-questions0
+
 ## Public Events
 
 Public events are open to anyone 18+. We do not require any registration to attend. Types of public events MinneQ hosts: 
